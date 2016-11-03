@@ -1,0 +1,8 @@
+C:\Source Code Praktikum Teknik Antarmuka\TCP_Client\TCP_Client\bin\Debug\TCP_Client.exe
+C:\Source Code Praktikum Teknik Antarmuka\TCP_Client\TCP_Client\bin\Debug\TCP_Client.pdb
+C:\Source Code Praktikum Teknik Antarmuka\TCP_Client\TCP_Client\obj\Debug\TCP_Client.csprojResolveAssemblyReference.cache
+C:\Source Code Praktikum Teknik Antarmuka\TCP_Client\TCP_Client\obj\Debug\TCP_Client.Form1.resources
+C:\Source Code Praktikum Teknik Antarmuka\TCP_Client\TCP_Client\obj\Debug\TCP_Client.Properties.Resources.resources
+C:\Source Code Praktikum Teknik Antarmuka\TCP_Client\TCP_Client\obj\Debug\TCP_Client.csproj.GenerateResource.Cache
+C:\Source Code Praktikum Teknik Antarmuka\TCP_Client\TCP_Client\obj\Debug\TCP_Client.exe
+C:\Source Code Praktikum Teknik Antarmuka\TCP_Client\TCP_Client\obj\Debug\TCP_Client.pdb
